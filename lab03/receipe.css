@@ -1,0 +1,24 @@
+body {
+	background-color: mediumpurple;
+	margin: 20px;
+	color: pink;
+}
+h1 {
+	text-transform: uppercase;
+	color:#fff;
+}
+h2 {
+    font-family:'times new roman', serif;
+    color:#009900;
+}
+li {
+	list-style-type: rectangle ;
+	color: black;
+	margin-left: 20px;
+
+}
+p {
+	font-family: 'Georgia', serif;
+	color: darkblue;
+	margin: 10px 0;
+}
