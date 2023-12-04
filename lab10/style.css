@@ -1,0 +1,73 @@
+body {
+
+      font-family: Arial;
+
+      margin: 0 auto;
+
+      background-color: black;
+
+    }
+
+h1 {
+      color: white;
+}
+
+ 
+
+h2 {
+
+      color: lightpink;
+
+      font-size: 20px;
+
+      margin-bottom: 15px;
+
+    }
+
+ 
+
+p {
+
+      color: white;
+
+      font-size: 20px;
+
+      line-height: 1.5;
+
+      margin-bottom: 20px;
+
+    }
+
+ 
+
+pre {
+
+      background-color: #333;
+
+      color: lightpink;
+
+      padding: 15px;
+
+      border: 1px solid #ddd;
+
+      overflow-x: auto;
+
+    }
+
+ 
+
+ul {
+
+      color: white;
+
+      font-size: 15px;
+
+      line-height: 1.5;
+
+      margin-bottom: 15px;
+
+      padding-left: 15px;
+
+    }
+
+ 
