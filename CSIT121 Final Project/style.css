@@ -1,0 +1,283 @@
+body {
+
+  font-family: sans-serif;
+
+  line-height: 1.5;
+
+  margin: 0;
+
+  padding: 0;
+
+}
+
+ 
+
+a {
+
+  color: darkgrey;
+
+  text-decoration: none;
+
+}
+
+ 
+
+a:hover {
+
+  color: #1062ad;
+
+}
+
+ 
+
+img {
+
+  max-width: 100%;
+
+  height: auto;
+
+}
+
+ 
+
+h1, h2, h3 {
+
+  font-weight: bold;
+
+  margin: 1em 0;
+
+}
+
+ 
+
+p {
+
+  margin: 0.5em 0;
+
+  line-height: 1.5;
+
+}
+
+ 
+
+ul, ol {
+
+  padding-left: 1em;
+
+}
+
+ 
+
+li {
+
+  margin-bottom: 0.5em;
+
+}
+
+header {
+
+  background-color: #212529;
+
+  color: #fff;
+
+  padding: 10px 20px;
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+}
+
+ 
+
+h1 {
+
+  margin: 0;
+
+  font-size: 2em;
+
+  color: #fff;
+
+}
+
+ 
+
+nav {
+
+  display: flex;
+
+  list-style: none;
+
+  justify-content: flex-end;
+
+}
+
+ 
+
+nav a {
+
+  padding: 5px 10px;
+
+  color: #fff;
+
+  border-radius: 5px;
+
+}
+
+ 
+
+nav a:hover {
+
+  background-color: #007bff;
+
+}
+
+#index {
+
+  background-image: url("https://www.shutterstock.com/image-vector/blue-pink-neon-light-background-600nw-2302192019.jpg");
+
+  background-size: cover;
+
+  background-position: center center;
+
+  padding: 20px;
+
+}
+
+ 
+
+#index {
+
+  background-color: rgba(255, 255, 255, 0.8);
+
+  border-radius: 10px;
+
+  padding: 20px;
+
+}
+
+ 
+
+#search {
+
+  background-image: url('https://img.freepik.com/premium-photo/young-beautiful-dancer-beige-dress-dancing-gray-studio-background_489646-9486.jpg');
+
+  background-size: auto;
+
+  background-position: center center;
+
+  padding: 20px;
+
+}
+
+ 
+
+#search form {
+
+  margin: 0 auto;
+
+  width: 50%;
+
+  padding: 20px;
+
+  background-color: rgba(255, 255, 255, 0.8);
+
+  border-radius: 10px;
+
+}
+
+#modern {
+
+  background-image: url('https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/ballet-and-contemporary-dancers-john-rensten.jpg');
+
+  background-size: cover;
+
+  background-position: center center;
+
+  padding: 20px;
+
+}
+
+ 
+
+#modern section {
+
+  padding: 20px;
+
+  background-color: rgba(255, 255, 255, 0.8);
+
+  border-radius: 10px;
+
+}
+
+ 
+
+#modern h2 {
+
+  font-size: 1.5em;
+
+  margin-bottom: 10px;
+
+  color: #007bff;
+
+}
+
+ 
+
+#modern p {
+
+  font-size: 1em;
+
+  line-height: 1.5;
+
+  color: #333;
+
+}
+
+ 
+
+#modern ul {
+
+  list-style: none;
+
+  padding: 0;
+
+  margin: 0;
+
+}
+
+ 
+
+#modern li {
+
+  margin-bottom: 10px;
+
+  color: #333;
+
+}
+
+#contact {
+
+  background-image: url('https://pointemagazine.com/wp-content/uploads/2021/11/GettyImages-1152417934-scaled.jpg');
+
+  background-size: cover;
+
+  background-position: center center;
+
+  padding: 20px;
+
+}
+
+ 
+
+#contact section {
+
+  padding: 20px;
+
+  background-color: rgba(255, 255, 255, 0.8);
+
+  border-radius: 10px;
+
+}
